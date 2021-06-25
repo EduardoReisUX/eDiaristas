@@ -1,3 +1,8 @@
+## Brief introduction
+This repo is the Front End of eDiaristas, a Single Page Application made with aid of Treinaweb's workshop: MultiStack.
+
+It was coded with Typescript, React and Nextjs together with MaterialUI, styledComponents and many more...
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
